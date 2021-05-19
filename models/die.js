@@ -3,7 +3,7 @@ class Die {
     this.numSides = numSides;
   }
 
-  // Getter
+
   get sides() {
     return this.numSides;
   }
