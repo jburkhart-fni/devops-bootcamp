@@ -5,6 +5,7 @@ class Die {
 
 
   get sides() {
+    console.log("Number of Sides: " + this.numSides);
     return this.numSides;
   }
 
